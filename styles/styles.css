@@ -1,0 +1,140 @@
+body{
+  margin : 0;
+}
+/*top section*/
+.h1{
+  margin-bottom: 0;
+  font-family: 'Audiowide', cursive;
+  font-size: 4rem;
+  color: #280175;
+}
+.ign{
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  color: #280175;
+}
+.h2{
+  font-family: 'Roboto', sans-serif;
+  font-size: 3rem;
+  font-weight: lighter;
+  color: #280175;
+}
+.book{
+  height: auto;
+  width: 200px;
+  position: absolute;
+  left : 350px;
+}
+.movie{
+  height : auto;
+  width : 200px;
+  position : absolute;
+  right : 350px;
+}
+.pc{
+  height: auto;
+  width: 200px;
+}
+.asii{
+  border-radius: 50%;
+  width: 250px;
+  height: auto;
+}
+.top-container{
+  padding-top: 75px;
+  text-align: center;
+  background-color: #a8dadc;
+}
+.student{
+  text-decoration: underline;
+}
+/*top section*/
+
+/*middle section*/
+.H1{
+  background-color: black;
+  border-color: black;
+  border-radius: 50%;
+  border-style: dotted;
+  font-family: 'Audiowide', cursive;
+  font-size: 2rem;
+  color: white;
+  padding-top : 20px;
+}
+.mv{
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: white;
+}
+.cmptr{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  color: white;
+  right:200px;
+}
+.stdt{
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: white;
+}
+.reading{
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: white;
+}
+.bo{
+  height: auto;
+  width: 200px;
+  position: absolute;
+  right: 100px
+}
+.cmp{
+  height: auto;
+  width: 200px;
+  position: absolute;
+  right: 100px;
+}
+.watch{
+  height: auto;
+  width: 200px;
+  position: absolute;
+  left : 100px;
+}
+.sk{
+  border-radius: 25%;
+  height: auto;
+  width: 200px;
+}
+.middle-container{
+  padding-top : 75px;
+  padding-bottom: 75px;
+  text-align : center;
+  background-color : #14213d;
+}
+/*bottom section*/
+.h3{
+  border-style: dotted;
+  margin:auto auto;
+  background-color: black;
+  border-radius: 50%;
+  font-family: 'Audiowide', cursive;
+  font-size: 30px;
+  color: white;
+}
+.face{
+  padding-right: 10px;
+  font-family: 'Audiowide', cursive;
+  font-size: 15px;
+  color: white;
+}
+.INSTA{
+  font-family: 'Audiowide', cursive;
+  font-size: 15px;
+  color: white;
+}
+.bottom-container{
+  padding-top: 20px;
+  text-align: center;
+  background-color: #0A043C;
+}
